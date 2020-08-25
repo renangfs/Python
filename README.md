@@ -26,3 +26,12 @@ SERVIDOR É UMA MAQUIONA RESPONSAVEL POR CONTROLAR UMA REDE DE COMPUTADORES
 TIPOS DE SERVIDORES
 PRINCIPAIS: ARQUIVO,APLICAÇÃO,IMPRESSAO.
 O WINDOWS PARA SER UTILIZADO NA EMPRESA É NECESSARIO PAGAR
+
+O Servidor DNS
+ele tem um arquivo que gerencia cada maquina dentro da rede dele
+Hackers estudam Unix a fundo
+
+### Linguagemn interpletada e linguagem Compilada
+
+Linguagemn interpletada é quando o programa traduz na mesma hora
+linguagem compilada seria quando o computador ja leu e traduzil toda linguagem para linguagem de maquina de forma que seja mais rapida
