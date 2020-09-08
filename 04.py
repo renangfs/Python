@@ -1,0 +1,7 @@
+n = str(input("digite:..."))
+print (type(n))
+print (n.isnumeric())
+print (n.isalpha())
+print (n.isalnum())
+print (n.isupper())
+print (n.islower())
