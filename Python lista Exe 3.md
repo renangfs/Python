@@ -5,7 +5,7 @@
 
 ### 1)	Crie um script que peça o nome do usuário e dê uma mensagem de boas vindas.
 
-Resolução: 
+Resolução: https://github.com/renangfs/Python/blob/master/Exe1.py
 
 
 ### 2)	Crie um script que solicite o ano de nascimento do usuário e exiba a idade desta pessoa, considere que ela já fez aniversário.
