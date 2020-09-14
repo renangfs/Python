@@ -2,7 +2,7 @@
 
 # Aula 3
 <h1 align="center">Exercícios programação Python </h1>
-<hr>
+<br>
 
 ### 1)	Crie um script que peça o nome do usuário e dê uma mensagem de boas vindas.
 
