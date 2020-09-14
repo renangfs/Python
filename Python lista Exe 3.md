@@ -10,9 +10,6 @@ Resolução: https://github.com/renangfs/Python/blob/master/Exe1.py
 
 ### 2)	Crie um script que solicite o ano de nascimento do usuário e exiba a idade desta pessoa, considere que ela já fez aniversário.
 
-
-### Para os próximos exercícios guarde os dados em variável de memória
-
 Resolução: https://github.com/renangfs/Python/blob/master/Exe2.py
 
 ### 3)	Crie um script que leia dois números e exiba o somatório entre eles.
