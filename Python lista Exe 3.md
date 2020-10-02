@@ -47,11 +47,11 @@ Resolução:
  
 Crie um script que calcule sua área e perímetro. (A área triangular é representada por um triângulo equilátero, um quadrado e um semi-círculo).
 
-Resolução: https://github.com/renangfs/Python/blob/master/Exe8.py
+
 
 ### 8)	Um carro movido à gasolina, possui consumo médio de 15 Km/l, desenvolva um algoritmo e o programa que calcule o valor em reais do percurso de uma viagem realizada com este automóvel.
 
-Resolução:
+Resolução: https://github.com/renangfs/Python/blob/master/Exe8.py
 
 ### 9)	Uma agência de câmbio precisa de um sistema para fazer a conversão de valores em reais para dólar e euro.   Elabore um algoritmo e o programa para fazer tais conversões.
 
