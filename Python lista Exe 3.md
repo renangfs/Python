@@ -57,6 +57,4 @@ Resolução: https://github.com/renangfs/Python/blob/master/Exe8.py
 
 Resolução:
 
-OBS.:  Pesquisar a diferença entre as variáveis INT e FLOAT.
 
-Resolução:
