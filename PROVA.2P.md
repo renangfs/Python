@@ -22,7 +22,8 @@ Desde 2016, o Instagram usa o Python como principal linguagem de programação, 
 
 3) Escreva um programa utilizando a linguagem C e depois a linguagem Python, que solicite ao usuário 2 números e exiba na tela as quatro operações matemáticas básicas (soma, subtração, multiplicação e divisão).
 ![image](https://user-images.githubusercontent.com/61218420/95472453-71263200-0959-11eb-9f04-5c2937e4dcf8.png)
-
+OU
+![image](https://user-images.githubusercontent.com/61218420/95472644-aaf73880-0959-11eb-8707-fa9e8b247524.png)
 4) NUM1=int(input("Digite o numero: . . ."))
 5) NUM2=int(input("Digite outro numero: . . ."))
 6)
