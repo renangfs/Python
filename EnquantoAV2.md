@@ -1,5 +1,6 @@
 <strong>1. Construir um algoritmo que calcule o somatório de vários valores numéricos,lidos externamente.
 O final da leitura acontecerá quando for lido um valor negativo.</strong><br><br>
+https://github.com/renangfs/Python/blob/master/PythonEnquantoEX1.py
 <strong> 2. Construir um algoritmo que calcule a média aritmética de vários valoreinteiros, lidos externamente. 
 O final da leitura acontecerá quando for lido um valor negativo.</strong><br><br>
 <strong> 3. Crie um programa para ler vários números digitados pelo usuário, ao final
