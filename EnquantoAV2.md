@@ -8,11 +8,11 @@ O final da leitura acontecerá quando for lido um valor negativo.</strong><br><b
 <strong> 3. Crie um programa para ler vários números digitados pelo usuário, ao final
 exibir a quantidade de números positivos e a quantidade de números negativos,
 o programa será encerrado quando o usuário digitar o número zero.</strong><br><br>
-<strong> 4. Escreva um algoritmo que leia o <strong>código</strong> de um aluno e suas <b>três notas</b>.
-Calcule a <b>média ponderada</b> do aluno, considerando peso 4 para a primeira nota
+<strong> 4. Escreva um algoritmo que leia o código de um aluno e suas três notas.
+Calcule a média ponderada do aluno, considerando peso 4 para a primeira nota
 e para as duas restantes, 3. Para cada aluno dizer se ele está aprovado ou
-reprovado e ao final do processamento exibir o total de alunos <b>aprovados</b> e
-<b>reprovados</b>, considere média 6 para aprovação.<br><br>
+reprovado e ao final do processamento exibir o total de alunos aprovados e
+reprovados, considere média 6 para aprovação.<br><br>
 MP = (4 x NT1 + 3 x NT2 + 3 x NT3) / 10.</strong><br><br>
 <strong> 5. O cardápio de uma lanchonete é o seguinte:<br><br>
 Código--- Especificação Preço---- unitário<br>
