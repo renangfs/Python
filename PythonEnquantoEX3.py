@@ -14,4 +14,4 @@ while NUM != 0:
        SOMAMENOS = SOMAMENOS + 1
        NUM = int(input("Digite um numero:..."))
 
- print("A quantidade de numeros positivos é:{} e os numeros negativos é:{}".format(SOMAMAIS,SOMAMENOS))
+print("A quantidade de numeros positivos é:{} e os numeros negativos é:{}".format(SOMAMAIS,SOMAMENOS))
