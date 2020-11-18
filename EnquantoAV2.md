@@ -8,8 +8,8 @@ O final da leitura acontecerá quando for lido um valor negativo.</strong><br>
 resolução:https://github.com/renangfs/Python/blob/master/PythonEnquantoEX2.py<br><br>
 <strong> 3. Crie um programa para ler vários números digitados pelo usuário, ao final
 exibir a quantidade de números positivos e a quantidade de números negativos,
-resolução:https://github.com/renangfs/Python/blob/master/PythonEnquantoEX3.py
-o programa será encerrado quando o usuário digitar o número zero.</strong><br><br>
+o programa será encerrado quando o usuário digitar o número zero.</strong>
+resolução:https://github.com/renangfs/Python/blob/master/PythonEnquantoEX3.py<br><br>
 <strong> 4. Escreva um algoritmo que leia o código de um aluno e suas três notas.
 Calcule a média ponderada do aluno, considerando peso 4 para a primeira nota
 e para as duas restantes, 3. Para cada aluno dizer se ele está aprovado ou
