@@ -5,6 +5,7 @@ O final da leitura acontecerá quando for lido um valor negativo.</strong><br>
 resolução:https://github.com/renangfs/Python/blob/master/PythonEnquantoEX1.py<br><br>
 <strong> 2. Construir um algoritmo que calcule a média aritmética de vários valoreinteiros, lidos externamente. 
 O final da leitura acontecerá quando for lido um valor negativo.</strong><br><br>
+resolução:https://github.com/renangfs/Python/blob/master/PythonEnquantoEX2.py
 <strong> 3. Crie um programa para ler vários números digitados pelo usuário, ao final
 exibir a quantidade de números positivos e a quantidade de números negativos,
 o programa será encerrado quando o usuário digitar o número zero.</strong><br><br>
