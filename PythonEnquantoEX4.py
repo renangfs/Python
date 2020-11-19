@@ -2,7 +2,6 @@
 print("---------------------------------")
 print("-------- EX numero 4 ------------")
 print("---------------------------------")
-DIG=0
 N=2
 COD = int(input("Digite o codigo do aluno:..."))
 while N != 1:
