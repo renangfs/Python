@@ -2,7 +2,7 @@
 print("---------------------------------")
 print("-------- EX numero 4 ------------")
 print("---------------------------------")
-N=2
+N=999666999666999
 COD = int(input("Digite o codigo do aluno:..."))
 while N != 1:
     NT1 = int(input("Digite NOTA 1:..."))
