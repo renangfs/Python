@@ -15,7 +15,8 @@ Calcule a média ponderada do aluno, considerando peso 4 para a primeira nota
 e para as duas restantes, 3. Para cada aluno dizer se ele está aprovado ou
 reprovado e ao final do processamento exibir o total de alunos aprovados e
 reprovados, considere média 6 para aprovação.<br><br>
-MP = (4 x NT1 + 3 x NT2 + 3 x NT3) / 10.</strong><br><br>
+MP = (4 x NT1 + 3 x NT2 + 3 x NT3) / 10.</strong>
+resolução:https://github.com/renangfs/Python/blob/master/PythonEnquantoEX4.py<br><br>
 <strong> 5. O cardápio de uma lanchonete é o seguinte:<br><br>
 Código--- Especificação Preço---- unitário<br>
 100 ------ Cachorro quente ------- 1,10<br>
