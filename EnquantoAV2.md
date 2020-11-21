@@ -41,3 +41,4 @@ Código //Cargo //Percentual<br>
 SALANT, COD, SALNOVO, DIFE, TOTSAL.<br>
 SALNOVO = SALANT + (SALANT * 10/100);v
 TOTSAL = TOTSAL + SALNOVO</strong>
+resultado:https://github.com/renangfs/Python/tree/master
