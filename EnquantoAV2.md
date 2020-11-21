@@ -29,7 +29,7 @@ Escrever um programa que leia o código do item pedido, a quantidade e calcule
 o valor a ser pago por aquele lanche.
 COD, VALTOT, QTD
 VALTOT = VALTOT * (QTD*?)</strong><br><br>
-resolução:https://github.com/renangfs/Python/blob/master/PythonEnquantoEX5.py
+resolução:https://github.com/renangfs/Python/blob/master/PythonEnquantoEX5.py<br>
 <strong> 6. Uma empresa concederá um aumento de salário aos seus funcionários, variável de
 acordo com o cargo, conforme a tabela abaixo. Faça um algoritmo que leia o salário e
 o cargo de um funcionário e calcule o novo salário. Se o cargo do funcionário não estiver
