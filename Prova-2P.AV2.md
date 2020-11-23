@@ -12,6 +12,7 @@
       100 ---- R$5,30 
       101 ---- R$6,00 
       102 ---- R$3,20
+ resolução:https://github.com/renangfs/Python/tree-save/master/PythonAV2.py
 
 ### 3) Faça um programa, em Python, que leia a temperatura diária de uma cidade durante uma semana, ao final deste período, deverá ser apresentada a maior e a menor temperatura daquela semana. (2,0 ponto)
 resolução:https://github.com/renangfs/Python/blob/master/AV2Python.py
