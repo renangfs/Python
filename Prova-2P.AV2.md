@@ -5,7 +5,7 @@
 #### b) S = 1/2 + 3/4 + 5/6 + ... + 999/1000 (1,5 pontos)
 
 #### c) S= 15! (1,5 pontos)
-resolição:https://github.com/renangfs/Python/blob/master/AV2python1.py
+resolução:https://github.com/renangfs/Python/blob/master/AV2python1.py
 ### 2) Um vendedor precisa de um programa, em Python, que calcule o preço total devido por um cliente. O algoritmo deve receber os códigos dos produtos e as quantidades compradas e calcular o preço total, usando a tabela abaixo. (2,0 pontos)
 
 #### Código PreçoUnitário 
