@@ -15,4 +15,4 @@ resolução:https://github.com/renangfs/Python/blob/master/AV2python1.py
  resolução:https://github.com/renangfs/Python/blob/master/AV2Python2.py
 
 ### 3) Faça um programa, em Python, que leia a temperatura diária de uma cidade durante uma semana, ao final deste período, deverá ser apresentada a maior e a menor temperatura daquela semana. (2,0 ponto)
-resolução:https://github.com/renangfs/Python/blob/master/AV2Python.py
+resolução:https://github.com/renangfs/Python/edit/master/AV2Python3.py
