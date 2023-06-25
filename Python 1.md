@@ -34,4 +34,4 @@ Hackers estudam Unix a fundo
 ### Linguagemn interpletada e linguagem Compilada
 
 Linguagemn interpletada é quando o programa traduz na mesma hora
-linguagem compilada seria quando o computador ja leu e traduzil toda linguagem para linguagem de maquina de forma que seja mais rapida
+linguagem compilada seria quando o computador ja leu e traduziu toda linguagem para linguagem de maquina de forma que seja mais rapida
